@@ -1,1 +1,1 @@
-# Artificial-intelligence-project
+# Houses_prices_prediction_Nigeria
